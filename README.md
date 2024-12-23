@@ -1,0 +1,1 @@
+To open the .py file, you must first install the pips in the cmd. When you open the file in VisualStudioCode, you will see all the imports , from there you will have to google "pip (name of the pip) python string.
